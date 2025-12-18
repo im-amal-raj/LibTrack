@@ -1,6 +1,6 @@
 # LibTrack 📚
 
-**LibTrack** is a robust, Command-Line Interface (CLI) Library Management System built with Python and SQLite3. It simulates real-world library operations, featuring inventory tracking, automated fines, role-based access control, and an interactive notification center.
+**LibTrack** is a robust, Command-Line Interface (CLI) Library Management System built with Python and SQLite3. It simulates real-world library operations, featuring inventory tracking, automated fine calculation, and role-based access control.
 
 ## 🎥 Demo Video
 
@@ -9,13 +9,13 @@
 ## 🖼️ Screenshots
 
 | Login Screen | Admin Dashboard |
-|:---:|: ---:|
-| ![Login Screen](https://via.placeholder.com/400x200?text=Login+Screen) | ![Admin Dashboard](https://via.placeholder.com/400x200?text=Admin+Dashboard) |
+|:---:|:---:|
+| ![Login Screen](files/DOCS/login.png) | ![Admin Dashboard](files/DOCS/admin.png) |
 | *Secure Login System* | *Notification Center & Stats* |
 
 | Smart Search | Reports |
-|:---:|: ---:|
-| ![Smart Search](https://via.placeholder.com/400x200?text=Smart+Search) | ![Reports](https://via.placeholder.com/400x200?text=Tabulated+Reports) |
+|:---:|:---:|
+| ![Smart Search](files/DOCS/smart-search.png) | ![Reports](files/DOCS/reports.png) |
 | *Autocomplete functionality* | *Detailed Loan Records* |
 
 ## 🚀 Key Features
