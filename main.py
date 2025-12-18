@@ -1,5 +1,5 @@
 import sys
-from models import LibraryManager 
+from models import LibraryManager
 import views
 from utils import clear_screen, get_valid_choice
 
