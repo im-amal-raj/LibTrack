@@ -5,7 +5,7 @@
 ## 🎥 Demo Video
 Watch the full system walkthrough:
 
-[![Watch the video](img.youtube.com)](https://youtu.be/qAYon8zTIWE)
+[![Watch the video](https://img.youtube.com/vi/qAYon8zTIWE/maxresdefault.jpg)](https://youtu.be/qAYon8zTIWE)
 
 ## 🖼️ Screenshots
 
